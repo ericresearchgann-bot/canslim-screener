@@ -1,0 +1,8 @@
+Plaintext
+
+streamlit
+yfinance
+pandas
+numpy
+plotly
+lxml
